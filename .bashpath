@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# In this dir you can add local binaries
+PATH=$PATH:$PWD/.local/bin

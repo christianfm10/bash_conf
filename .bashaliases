@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Swap lsd instead of ls
+alias ls='lsd'
+alias v='nvim'
+alias nvimconf='cd ~/.config/nvim/'
+alias kittyconf='cd ~/.config/kitty/'
